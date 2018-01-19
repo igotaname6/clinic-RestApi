@@ -1,0 +1,19 @@
+[{
+  "firstName": "Jan",
+  "lastName": "Kowalski",
+  "specialization:": "pediatra",
+  "salary": "1500"
+},
+  {
+    "firstName": "Andrzej",
+    "lastName": "Janusz",
+    "specialization:": "psychiatra",
+    "salary": "9000"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "franklin",
+    "specialization:": "neurolog",
+    "salary": "6020"
+  }
+  ]
